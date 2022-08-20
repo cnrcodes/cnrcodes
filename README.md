@@ -1,6 +1,4 @@
-### Hi, I'm Conor.
+--Hi, Im cnr--
+--A 17 y/o CyberSec Enthusiast Specialising in Web Exploitation
+--Currently working as a Junior Devops Eng--
 
-- 🔭 I’m currently working as a Junior DevOps Engineer
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m studying Cyber Security
-- 📫 How to reach me, Instagram: cnr.hstn
